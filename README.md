@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Inventor4life
 - 👀 I’m interested in creating games, apps, and projects!
-- 🌱 I’m currently learning Java, Assembly, and C++
+- 🌱 I’m currently learning Java, C, C++, and Python
 - 💞️ I’m looking to collaborate on almost anything.
-- 📫 You can reach me through my email (should be next to my profile?) or through my Discord, Inventor4life#8859
+- 📫 You can reach me through my email (should be next to my profile?) or through my Discord, Inventor4life
